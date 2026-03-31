@@ -3,7 +3,7 @@ This demo shows off the features of Atalasoft's BarcodeReader components
 
 The original demo was named "Barcoder"
 
-This is the C# version
+This is the C# version. We also have a [VB.NET Version](https://github.com/AtalaSupport/DemoGallery_Desktop_BarcodeReaderDemo_VB_x64)
 
 ## Prerequisites
 This demo assumes you have the Atalasoft DotImage SDK installed and licensed for 
